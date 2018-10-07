@@ -1,0 +1,2 @@
+The purpose of this folder is to provide a convenient way of removing parts, and is not needed itself for the mod.
+Replace a part with one of these to remove it.

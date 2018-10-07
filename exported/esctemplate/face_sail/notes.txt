@@ -1,0 +1,4 @@
+This is the side-sailing face, which is face-15 in the Shipwrecked version. 
+
+This was added for compatibility for mods adding Shipwrecked content to DST,
+such as: https://steamcommunity.com/sharedfiles/filedetails/?id=1467214795

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+	<folder id="0" name="ghost_FX">
+		<file id="0" name="ghost_FX/ghost_FX-0.png" width="184" height="136" pivot_x="1.31249" pivot_y="0.326842" />
+		<file id="1" name="ghost_FX/ghost_FX-1.png" width="216" height="140" pivot_x="1.19444" pivot_y="0.312325" />
+		<file id="2" name="ghost_FX/ghost_FX-2.png" width="284" height="140" pivot_x="1.09507" pivot_y="0.286075" />
+		<file id="3" name="ghost_FX/ghost_FX-3.png" width="280" height="148" pivot_x="1.22035" pivot_y="0.189193" />
+		<file id="4" name="ghost_FX/ghost_FX-4.png" width="272" height="176" pivot_x="1.39797" pivot_y="0.163497" />
+		<file id="5" name="ghost_FX/ghost_FX-5.png" width="188" height="184" pivot_x="2.13563" pivot_y="0.125682" />
+		<file id="6" name="ghost_FX/ghost_FX-6.png" width="52" height="28" pivot_x="7.98315" pivot_y="-3.78568" />
+		<file id="7" name="ghost_FX/ghost_FX-7.png" width="52" height="28" pivot_x="7.98315" pivot_y="-3.78568" />
+		<file id="8" name="ghost_FX/ghost_FX-8.png" width="240" height="424" pivot_x="0.472915" pivot_y="-0.221814" />
+		<file id="9" name="ghost_FX/ghost_FX-9.png" width="236" height="456" pivot_x="0.472456" pivot_y="-0.169789" />
+		<file id="10" name="ghost_FX/ghost_FX-10.png" width="248" height="496" pivot_x="0.46774" pivot_y="-0.135431" />
+		<file id="11" name="ghost_FX/ghost_FX-11.png" width="268" height="576" pivot_x="0.494401" pivot_y="0.0144974" />
+		<file id="12" name="ghost_FX/ghost_FX-12.png" width="272" height="676" pivot_x="0.514704" pivot_y="0.072301" />
+		<file id="13" name="ghost_FX/ghost_FX-13.png" width="248" height="708" pivot_x="0.506046" pivot_y="0.0466462" />
+		<file id="14" name="ghost_FX/ghost_FX-14.png" width="156" height="532" pivot_x="0.729163" pivot_y="-0.294735" />
+		<file id="15" name="ghost_FX/ghost_FX-15.png" width="32" height="172" pivot_x="0.109375" pivot_y="-0.360605" />
+		<file id="16" name="ghost_FX/ghost_FX-16.png" width="32" height="84" pivot_x="0.194531" pivot_y="-0.164274" />
+		<file id="17" name="ghost_FX/ghost_FX-17.png" width="204" height="356" pivot_x="0.505512" pivot_y="0.092698" />
+		<file id="18" name="ghost_FX/ghost_FX-18.png" width="220" height="552" pivot_x="0.44193" pivot_y="0.0783524" />
+		<file id="19" name="ghost_FX/ghost_FX-19.png" width="52" height="28" pivot_x="7.98315" pivot_y="-3.78568" />
+		<file id="20" name="ghost_FX/ghost_FX-20.png" width="424" height="292" pivot_x="0.521225" pivot_y="-0.31164" />
+		<file id="21" name="ghost_FX/ghost_FX-21.png" width="484" height="284" pivot_x="0.508832" pivot_y="-0.390842" />
+		<file id="22" name="ghost_FX/ghost_FX-22.png" width="452" height="344" pivot_x="0.525718" pivot_y="-0.372381" />
+		<file id="23" name="ghost_FX/ghost_FX-23.png" width="384" height="356" pivot_x="0.493098" pivot_y="-0.397539" />
+		<file id="24" name="ghost_FX/ghost_FX-24.png" width="228" height="408" pivot_x="0.448463" pivot_y="-0.278" />
+		<file id="25" name="ghost_FX/ghost_FX-25.png" width="376" height="388" pivot_x="0.463097" pivot_y="-0.407214" />
+		<file id="26" name="ghost_FX/ghost_FX-26.png" width="352" height="376" pivot_x="0.469175" pivot_y="-0.502324" />
+		<file id="27" name="ghost_FX/ghost_FX-27.png" width="380" height="408" pivot_x="0.478354" pivot_y="-0.490561" />
+		<file id="28" name="ghost_FX/ghost_FX-28.png" width="360" height="452" pivot_x="0.435485" pivot_y="-0.336779" />
+		<file id="29" name="ghost_FX/ghost_FX-29.png" width="360" height="716" pivot_x="0.435137" pivot_y="0.05447" />
+		<file id="30" name="ghost_FX/ghost_FX-30.png" width="344" height="812" pivot_x="0.457339" pivot_y="0.0417802" />
+		<file id="31" name="ghost_FX/ghost_FX-31.png" width="48" height="212" pivot_x="0.0989583" pivot_y="-0.74575" />
+		<file id="32" name="ghost_FX/ghost_FX-32.png" width="32" height="172" pivot_x="0.109375" pivot_y="-0.360605" />
+		<file id="33" name="ghost_FX/ghost_FX-33.png" width="32" height="84" pivot_x="0.194531" pivot_y="-0.164274" />
+		<file id="34" name="ghost_FX/ghost_FX-34.png" width="184" height="136" pivot_x="1.31249" pivot_y="0.326842" />
+		<file id="35" name="ghost_FX/ghost_FX-35.png" width="216" height="140" pivot_x="1.19444" pivot_y="0.312325" />
+		<file id="36" name="ghost_FX/ghost_FX-36.png" width="284" height="140" pivot_x="1.09507" pivot_y="0.286075" />
+		<file id="37" name="ghost_FX/ghost_FX-37.png" width="280" height="148" pivot_x="1.22035" pivot_y="0.189193" />
+		<file id="38" name="ghost_FX/ghost_FX-38.png" width="272" height="176" pivot_x="1.39797" pivot_y="0.163497" />
+		<file id="39" name="ghost_FX/ghost_FX-39.png" width="188" height="184" pivot_x="2.13563" pivot_y="0.125682" />
+		<file id="40" name="ghost_FX/ghost_FX-40.png" width="52" height="28" pivot_x="7.98315" pivot_y="-3.78568" />
+	</folder>
+	<folder id="1" name="ghost_eyes">
+		<file id="0" name="ghost_eyes/ghost_eyes-0.png" width="250" height="250" pivot_x="0.515197" pivot_y="0.613101" />
+		<file id="1" name="ghost_eyes/ghost_eyes-1.png" width="250" height="250" pivot_x="0.515197" pivot_y="0.613101" />
+		<file id="2" name="ghost_eyes/ghost_eyes-2.png" width="250" height="250" pivot_x="0.515197" pivot_y="0.613101" />
+		<file id="3" name="ghost_eyes/ghost_eyes-3.png" width="250" height="250" pivot_x="0.515197" pivot_y="0.613101" />
+	</folder>
+	<folder id="2" name="ghost_body">
+		<file id="0" name="ghost_body/ghost_body-0.png" width="360" height="352" pivot_x="0.515346" pivot_y="0.699859" />
+	</folder>
+	<folder id="3" name="ghost_tail">
+		<file id="0" name="ghost_tail/ghost_tail-0.png" width="232" height="392" pivot_x="0.465838" pivot_y="-0.322638" />
+		<file id="1" name="ghost_tail/ghost_tail-1.png" width="228" height="396" pivot_x="0.468748" pivot_y="-0.304985" />
+		<file id="2" name="ghost_tail/ghost_tail-2.png" width="232" height="408" pivot_x="0.472304" pivot_y="-0.269789" />
+		<file id="3" name="ghost_tail/ghost_tail-3.png" width="228" height="400" pivot_x="0.497586" pivot_y="-0.293435" />
+		<file id="4" name="ghost_tail/ghost_tail-4.png" width="232" height="404" pivot_x="0.507864" pivot_y="-0.278896" />
+		<file id="5" name="ghost_tail/ghost_tail-5.png" width="228" height="408" pivot_x="0.52445" pivot_y="-0.272669" />
+		<file id="6" name="ghost_tail/ghost_tail-6.png" width="236" height="412" pivot_x="0.530824" pivot_y="-0.257825" />
+		<file id="7" name="ghost_tail/ghost_tail-7.png" width="236" height="408" pivot_x="0.525422" pivot_y="-0.271811" />
+		<file id="8" name="ghost_tail/ghost_tail-8.png" width="232" height="412" pivot_x="0.510019" pivot_y="-0.261709" />
+		<file id="9" name="ghost_tail/ghost_tail-9.png" width="232" height="408" pivot_x="0.500321" pivot_y="-0.271382" />
+		<file id="10" name="ghost_tail/ghost_tail-10.png" width="232" height="404" pivot_x="0.489545" pivot_y="-0.282918" />
+		<file id="11" name="ghost_tail/ghost_tail-11.png" width="224" height="404" pivot_x="0.495645" pivot_y="-0.286631" />
+		<file id="12" name="ghost_tail/ghost_tail-12.png" width="236" height="404" pivot_x="0.479129" pivot_y="-0.284156" />
+		<file id="13" name="ghost_tail/ghost_tail-13.png" width="232" height="408" pivot_x="0.480601" pivot_y="-0.272301" />
+		<file id="14" name="ghost_tail/ghost_tail-14.png" width="232" height="408" pivot_x="0.485235" pivot_y="-0.271015" />
+		<file id="15" name="ghost_tail/ghost_tail-15.png" width="228" height="400" pivot_x="0.470393" pivot_y="-0.29306" />
+	</folder>
+	<folder id="4" name="ghost_hairpigtails">
+		<file id="0" name="ghost_hairpigtails/ghost_hairpigtails-0.png" width="200" height="250" pivot_x="0.75374744" pivot_y="0.64620192" />
+		<file id="1" name="ghost_hairpigtails/ghost_hairpigtails-1.png" width="200" height="250" pivot_x="0.29849738" pivot_y="0.65110208" />
+	</folder>
+	<entity id="0" name="BUILD_PLAYER">
+		<animation id="0" name="anim" length="100">
+			<mainline>
+				<key id="0" time="0">
+					<object_ref id="0" name="ghost_eyes" abs_x="0" abs_y="0" abs_pivot_x="0.524356" abs_pivot_y="0.782755" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="3" />
+					<object_ref id="1" name="ghost_tail" abs_x="0" abs_y="0" abs_pivot_x="0.465838" abs_pivot_y="-0.322638" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="1" key="0" z_index="2" />
+					<object_ref id="2" name="ghost_hairpigtails" abs_x="0" abs_y="0" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="2" key="0" z_index="6" />
+					<object_ref id="3" name="ghost_hairpigtails" abs_x="0" abs_y="0" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="3" key="0" z_index="5" />
+				</key>
+			</mainline>
+			<timeline id="0" name="ghost_eyes">
+				<key id="0" time="0" spin="1">
+					<object folder="1" file="0" x="6.75" y="401.749" scale_x="0.999894" scale_y="0.999894" angle="1.76473" />
+				</key>
+			</timeline>
+			<timeline id="1" name="ghost_tail">
+				<key id="0" time="0" spin="1">
+					<object folder="3" file="0" x="0" y="-19.95" scale_x="1" scale_y="1" angle="0" />
+				</key>
+			</timeline>
+			<timeline id="2" name="ghost_hairpigtails_0">
+				<key id="0" time="0" spin="1">
+					<object folder="4" file="0" x="-74.849" y="243.549" scale_x="0.999442" scale_y="0.999442" angle="9.79323" />
+				</key>
+			</timeline>
+			<timeline id="3" name="ghost_hairpigtails_1">
+				<key id="0" time="0" spin="-1">
+					<object folder="4" file="1" x="103.25" y="248.249" scale_x="0.999185" scale_y="0.999185" angle="345.189" />
+				</key>
+			</timeline>
+		</animation>
+	</entity>
+</spriter_data>

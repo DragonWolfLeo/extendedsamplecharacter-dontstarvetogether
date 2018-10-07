@@ -1,0 +1,24 @@
+The contents of this folder are converted by the autocompiler.
+
+V1.2.4
+After compiling names_[character].png and names_gold_[character].png, open the respective .xml in a text editor.
+In both files, change the Element name to "[character].tex". (Do not change the Texture filename)
+
+This is in order to get the name to show up in the character select screen. If you edit the image afterwards, you will have to repeat this after it re-compiles.
+
+Example:
+<Atlas>
+	<Texture filename="names_esctemplate.tex" />
+	<Elements>
+		<Element name="esctemplate.tex" u1="0.00048828125" u2="0.85498046875" v1="0.1533203125" v2="0.9990234375" />
+	</Elements>
+</Atlas>
+
+
+
+<Atlas>
+	<Texture filename="names_gold_esctemplate.tex" />
+	<Elements>
+		<Element name="esctemplate.tex" u1="0.00048828125" u2="0.85498046875" v1="0.1533203125" v2="0.9990234375" />
+	</Elements>
+</Atlas>
