@@ -10,17 +10,13 @@ local skins =
 	ghost_skin = "ghost_esctemplate_build",
 }
 
-local base_prefab = "esctemplate"
-
-local tags = {"ESCTEMPLATE", "CHARACTER"}
-
 return CreatePrefabSkin("esctemplate_none",
 {
-	base_prefab = base_prefab, 
-	skins = skins, 
+	base_prefab = "esctemplate",
+	type = "base",
 	assets = assets,
-	tags = tags,
-	
-	skip_item_gen = true,
-	skip_giftable_gen = true,
+	skins = skins, 
+	skin_tags = {"ESCTEMPLATE", "CHARACTER", "BASE"},
+	build_name = "esctemplate",
+	rarity = "Common",
 })
