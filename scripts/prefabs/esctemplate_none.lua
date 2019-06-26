@@ -17,6 +17,6 @@ return CreatePrefabSkin("esctemplate_none",
 	assets = assets,
 	skins = skins, 
 	skin_tags = {"ESCTEMPLATE", "CHARACTER", "BASE"},
-	build_name = "esctemplate",
-	rarity = "Common",
+	build_name_override = "esctemplate",
+	rarity = "Character",
 })
