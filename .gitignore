@@ -1,1 +1,7 @@
 exported/**/*.zip
+
+# Sound
+*/.fsbcache/*
+*.fdp.bak
+*/fmod_designer.log
+*/undo-log.txt
