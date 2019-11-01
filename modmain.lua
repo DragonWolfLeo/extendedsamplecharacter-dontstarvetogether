@@ -51,6 +51,7 @@ STRINGS.CHARACTERS.ESCTEMPLATE = require "speech_esctemplate"
 
 -- The character's name as appears in-game 
 STRINGS.NAMES.ESCTEMPLATE = "Esc"
+STRINGS.SKIN_NAMES.esctemplate_none = "Esc"
 
 -- Add mod character to mod character list. Also specify a gender. Possible genders are MALE, FEMALE, ROBOT, NEUTRAL, and PLURAL.
 AddModCharacter("esctemplate", "FEMALE")
