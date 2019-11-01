@@ -3,8 +3,6 @@ local MakePlayerCharacter = require "prefabs/player_common"
 
 local assets = {
     Asset("SCRIPT", "scripts/prefabs/player_common.lua"),
-    Asset("SOUNDPACKAGE", "sound/esc.fev"),
-    Asset("SOUND", "sound/esc.fsb"),
 }
 local prefabs = {}
 
@@ -49,10 +47,6 @@ local master_postinit = function(inst)
 	
 	-- Uncomment if "wathgrithr"(Wigfrid) or "webber" voice is used
     --inst.talker_path_override = "dontstarve_DLC001/characters/"
-	
-	-- custom sounds example, Work-In-Progress -M
-	--inst.soundsname = "esctemplate"
-    --inst.talker_path_override = "esc/"
 	
 	-- Stats	
 	inst.components.health:SetMaxHealth(150)
