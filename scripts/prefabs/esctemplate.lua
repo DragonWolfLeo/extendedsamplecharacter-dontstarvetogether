@@ -8,6 +8,10 @@ local prefabs = {}
 
 -- Custom starting inventory
 local start_inv = {
+	"flint",
+	"flint",
+	"twigs",
+	"twigs",
 }
 
 -- When the character is revived from human
