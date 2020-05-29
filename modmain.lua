@@ -45,6 +45,7 @@ STRINGS.CHARACTER_TITLES.esctemplate = "The Sample Character"
 STRINGS.CHARACTER_NAMES.esctemplate = "Esc"
 STRINGS.CHARACTER_DESCRIPTIONS.esctemplate = "*Perk 1\n*Perk 2\n*Perk 3"
 STRINGS.CHARACTER_QUOTES.esctemplate = "\"Quote\""
+STRINGS.CHARACTER_SURVIVABILITY.esctemplate = "Slim"
 
 -- Custom speech strings
 STRINGS.CHARACTERS.ESCTEMPLATE = require "speech_esctemplate"
@@ -53,5 +54,17 @@ STRINGS.CHARACTERS.ESCTEMPLATE = require "speech_esctemplate"
 STRINGS.NAMES.ESCTEMPLATE = "Esc"
 STRINGS.SKIN_NAMES.esctemplate_none = "Esc"
 
+-- The skins shown in the cycle view window on the character select screen.
+-- A good place to see what you can put in here is in skinutils.lua, in the function GetSkinModes
+local skin_modes = {
+    { 
+        type = "ghost_skin",
+        anim_bank = "ghost",
+        idle_anim = "idle", 
+        scale = 0.75, 
+        offset = { 0, -25 } 
+    },
+}
+
 -- Add mod character to mod character list. Also specify a gender. Possible genders are MALE, FEMALE, ROBOT, NEUTRAL, and PLURAL.
-AddModCharacter("esctemplate", "FEMALE")
+AddModCharacter("esctemplate", "FEMALE", skin_modes)
